@@ -396,9 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
-*.rom
-*.sna
-*.z80
 **/ZX Speculator.app/
 *.dmg
 **/.vscode/**
